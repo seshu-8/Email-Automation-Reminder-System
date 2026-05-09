@@ -1,0 +1,21 @@
+Subject: {subject}
+
+Dear {name},
+
+I hope this message finds you well. I am following up on our previous communication and wanted to check in regarding the pending items.
+
+Follow-up Details:
+------------------
+📅 Date     : {scheduled_date}
+👤 Role     : {role}
+🏢 Company  : {company}
+
+Please let us know if you need any additional information or if there is anything we can assist you with.
+
+Looking forward to your response.
+
+Warm regards,
+Business Development Team
+
+---
+This is an automated follow-up. Please do not reply to this email.

@@ -1,0 +1,22 @@
+Subject: {subject}
+
+Dear {name},
+
+This is a friendly reminder about your upcoming meeting scheduled for {scheduled_date} at {scheduled_time}.
+
+Meeting Details:
+----------------
+📅 Date     : {scheduled_date}
+⏰ Time     : {scheduled_time}
+🏢 Company  : {company}
+
+Please ensure you are prepared and available at the scheduled time.
+
+If you need to reschedule or have any questions, please reach out at your earliest convenience.
+
+Best regards,
+Automation Team
+{company}
+
+---
+This is an automated reminder. Please do not reply to this email.

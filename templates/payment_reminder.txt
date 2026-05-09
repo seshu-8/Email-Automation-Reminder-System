@@ -1,0 +1,21 @@
+Subject: {subject}
+
+Dear {name},
+
+This is an automated payment reminder. Your payment is due soon.
+
+Payment Details:
+----------------
+📋 Reference : {reminder_id}
+📅 Due Date  : {scheduled_date}
+🏢 Company   : {company}
+
+Please process the payment at your earliest convenience to avoid any service interruptions.
+
+If you have already made the payment, please disregard this reminder.
+
+Regards,
+Finance & Operations Team
+
+---
+This is an automated reminder. Please do not reply to this email.

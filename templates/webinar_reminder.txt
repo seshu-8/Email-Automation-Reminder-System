@@ -1,0 +1,22 @@
+Subject: {subject}
+
+Dear {name},
+
+You are registered for an upcoming webinar! Here are your details:
+
+Webinar Details:
+----------------
+📅 Date      : {scheduled_date}
+⏰ Time      : {scheduled_time}
+🌐 Platform  : Zoom / Google Meet (link will be shared)
+👤 Attendee  : {name} ({company})
+
+Join 5 minutes early to avoid technical issues.
+
+We look forward to seeing you there!
+
+Best,
+Events & Training Team
+
+---
+This is an automated webinar reminder. Please do not reply to this email.

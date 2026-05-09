@@ -1,0 +1,11 @@
+reminder_id,name,to_email,subject,reminder_type,priority,status,message,timestamp
+REM001,Arjun Sharma,arjun.sharma@example.com,Team Sync Meeting Tomorrow,meeting,high,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM002,Priya Nair,priya.nair@example.com,Interview Reminder - Tomorrow 11AM,interview,high,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM003,Rahul Verma,rahul.verma@example.com,Invoice #1042 Due in 3 Days,payment,medium,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM004,Sneha Reddy,sneha.reddy@example.com,Live Webinar Registration Reminder,webinar,low,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM005,Vikram Patel,vikram.patel@example.com,Following Up on Proposal Sent,followup,medium,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM006,Meera Joshi,meera.joshi@example.com,Project Submission Deadline Alert,deadline,high,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM007,Kiran Kumar,kiran.kumar@example.com,Sprint Planning - 3PM Today,meeting,high,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM008,Divya Singh,divya.singh@example.com,Monthly Subscription Renewal,payment,low,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM009,Aakash Menon,aakash.menon@example.com,Product Demo Followup,followup,medium,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28
+REM010,Ritu Gupta,ritu.gupta@example.com,Report Submission - EOD Friday,deadline,high,simulated,Dry-run: email not actually sent,2026-05-09 22:59:28

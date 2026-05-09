@@ -1,0 +1,26 @@
+Subject: {subject}
+
+Dear {name},
+
+This is a reminder about your upcoming interview scheduled with us.
+
+Interview Details:
+------------------
+📅 Date      : {scheduled_date}
+⏰ Time      : {scheduled_time}
+🏢 Company   : {company}
+👤 Candidate : {name}
+
+Please keep the following ready:
+- Updated Resume
+- Valid ID Proof
+- Portfolio / Work Samples (if applicable)
+
+Arrive 10 minutes early for in-person or join the link 5 minutes early for virtual.
+
+Best of luck!
+
+HR Team
+
+---
+This is an automated reminder. Please do not reply to this email.

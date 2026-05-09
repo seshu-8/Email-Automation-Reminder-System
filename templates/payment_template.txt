@@ -1,0 +1,21 @@
+Subject: {subject}
+
+Dear {name},
+
+This is an automated payment reminder from our finance system.
+
+Payment Details:
+- Reference : {subject}
+- Due Date  : {scheduled_date}
+- Role      : {role}
+- Company   : {company}
+
+Kindly process the payment at the earliest to avoid any late fees.
+For queries, contact our finance team immediately.
+
+Regards,
+Finance Automation System
+{company}
+
+---
+This is an automated reminder. Please do not reply directly to this system email.

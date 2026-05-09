@@ -1,0 +1,23 @@
+Subject: {subject}
+
+Dear {name},
+
+Hope this message finds you well.
+
+You have a pending action item that requires your attention:
+
+Details:
+- Task/Event : {subject}
+- Type       : {reminder_type}
+- Scheduled  : {scheduled_date} at {scheduled_time}
+- Your Role  : {role}
+
+Please take the necessary action before the deadline.
+Reach out to your coordinator if you need any assistance.
+
+Warm regards,
+Automation & Productivity System
+{company}
+
+---
+This is an automated reminder. Please do not reply directly to this system email.

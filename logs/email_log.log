@@ -1,0 +1,208 @@
+[2026-05-05 10:26:59] [INFO] ==================================================
+[2026-05-05 10:26:59] [INFO] EMAIL AUTOMATION SYSTEM STARTED
+[2026-05-05 10:26:59] [INFO] Mode: DRY-RUN | Filter: all
+[2026-05-05 10:26:59] [INFO] ✅ Loaded 10 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+[2026-05-05 10:26:59] [INFO] ✅ Loaded 10 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+[2026-05-05 10:26:59] [INFO] ✅ Merged dataset: 10 rows
+[2026-05-05 10:26:59] [INFO] 📋 All pending reminders: 10 found
+[2026-05-05 10:26:59] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-05 10:26:59] [DEBUG] ✉️ Email personalized for Arjun Sharma
+[2026-05-05 10:26:59] [INFO] [DRY-RUN] 📧 SIMULATED → To: arjun.sharma@example.com | Subject: Team Sync Meeting Tomorrow
+[2026-05-05 10:26:59] [DEBUG] 📄 Template loaded: interview_reminder.txt
+[2026-05-05 10:26:59] [DEBUG] ✉️ Email personalized for Priya Nair
+[2026-05-05 10:26:59] [INFO] [DRY-RUN] 📧 SIMULATED → To: priya.nair@example.com | Subject: Interview Reminder - Tomorrow 11AM
+[2026-05-05 10:27:02] [INFO] ==================================================
+[2026-05-05 10:27:02] [INFO] EMAIL AUTOMATION SYSTEM STARTED
+[2026-05-05 10:27:02] [INFO] Mode: DRY-RUN | Filter: all
+[2026-05-05 10:27:02] [INFO] ✅ Loaded 10 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+[2026-05-05 10:27:02] [INFO] ✅ Loaded 10 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+[2026-05-05 10:27:02] [INFO] ✅ Merged dataset: 10 rows
+[2026-05-05 10:27:02] [INFO] 📋 All pending reminders: 10 found
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Arjun Sharma
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: arjun.sharma@example.com | Subject: Team Sync Meeting Tomorrow
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: interview_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Priya Nair
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: priya.nair@example.com | Subject: Interview Reminder - Tomorrow 11AM
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Rahul Verma
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: rahul.verma@example.com | Subject: Invoice #1042 Due in 3 Days
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: webinar_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Sneha Reddy
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: sneha.reddy@example.com | Subject: Live Webinar Registration Reminder
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Vikram Patel
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: vikram.patel@example.com | Subject: Following Up on Proposal Sent
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Meera Joshi
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: meera.joshi@example.com | Subject: Project Submission Deadline Alert
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Kiran Kumar
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: kiran.kumar@example.com | Subject: Sprint Planning - 3PM Today
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Divya Singh
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: divya.singh@example.com | Subject: Monthly Subscription Renewal
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Aakash Menon
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: aakash.menon@example.com | Subject: Product Demo Followup
+[2026-05-05 10:27:02] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-05 10:27:02] [DEBUG] ✉️ Email personalized for Ritu Gupta
+[2026-05-05 10:27:02] [INFO] [DRY-RUN] 📧 SIMULATED → To: ritu.gupta@example.com | Subject: Report Submission - EOD Friday
+[2026-05-05 10:27:02] [INFO] 📊 Report saved: /home/claude/Email-Automation-Reminder-System/outputs/email_report.csv
+[2026-05-05 10:27:02] [INFO] EMAIL AUTOMATION SYSTEM COMPLETED
+[2026-05-05 10:27:02] [INFO] ==================================================
+[2026-05-05 11:01:06] [INFO] ==================================================
+[2026-05-05 11:01:06] [INFO] EMAIL AUTOMATION SYSTEM STARTED
+[2026-05-05 11:01:06] [INFO] Mode: DRY-RUN | Filter: all
+[2026-05-05 11:01:06] [INFO] Loaded 10 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+[2026-05-05 11:01:06] [INFO] Loaded 10 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+[2026-05-05 11:01:06] [INFO] Merged dataset: 10 rows
+[2026-05-05 11:01:06] [INFO] All pending reminders: 10
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Arjun Sharma
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: arjun.sharma@example.com | Subject: Team Sync Meeting Tomorrow
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: interview_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Priya Nair
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: priya.nair@example.com | Subject: Interview Reminder - Tomorrow 11AM
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Rahul Verma
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: rahul.verma@example.com | Subject: Invoice #1042 Due in 3 Days
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: webinar_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Sneha Reddy
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: sneha.reddy@example.com | Subject: Live Webinar Registration Reminder
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Vikram Patel
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: vikram.patel@example.com | Subject: Following Up on Proposal Sent
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Meera Joshi
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: meera.joshi@example.com | Subject: Project Submission Deadline Alert
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Kiran Kumar
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: kiran.kumar@example.com | Subject: Sprint Planning - 3PM Today
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Divya Singh
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: divya.singh@example.com | Subject: Monthly Subscription Renewal
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Aakash Menon
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: aakash.menon@example.com | Subject: Product Demo Followup
+[2026-05-05 11:01:06] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-05 11:01:06] [DEBUG] ✉️ Email personalized for Ritu Gupta
+[2026-05-05 11:01:06] [INFO] [DRY-RUN] SIMULATED -> To: ritu.gupta@example.com | Subject: Report Submission - EOD Friday
+[2026-05-05 11:01:06] [INFO] Report saved: /home/claude/Email-Automation-Reminder-System/outputs/email_report.csv
+[2026-05-05 11:01:06] [INFO] EMAIL AUTOMATION SYSTEM COMPLETED
+[2026-05-05 11:01:06] [INFO] ==================================================
+[2026-05-07 08:08:41] [INFO] Loaded 10 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+[2026-05-07 08:08:41] [INFO] Loaded 10 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+[2026-05-07 08:08:41] [INFO] Merged dataset: 10 rows
+[2026-05-07 08:08:41] [INFO] All pending reminders: 10
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Arjun Sharma
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: arjun.sharma@example.com | Subject: Team Sync Meeting Tomorrow
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: interview_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Priya Nair
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: priya.nair@example.com | Subject: Interview Reminder - Tomorrow 11AM
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Rahul Verma
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: rahul.verma@example.com | Subject: Invoice #1042 Due in 3 Days
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: webinar_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Sneha Reddy
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: sneha.reddy@example.com | Subject: Live Webinar Registration Reminder
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Vikram Patel
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: vikram.patel@example.com | Subject: Following Up on Proposal Sent
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Meera Joshi
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: meera.joshi@example.com | Subject: Project Submission Deadline Alert
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Kiran Kumar
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: kiran.kumar@example.com | Subject: Sprint Planning - 3PM Today
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Divya Singh
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: divya.singh@example.com | Subject: Monthly Subscription Renewal
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Aakash Menon
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: aakash.menon@example.com | Subject: Product Demo Followup
+[2026-05-07 08:08:41] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-07 08:08:41] [DEBUG] ✉️ Email personalized for Ritu Gupta
+[2026-05-07 08:08:41] [INFO] [DRY-RUN] SIMULATED -> To: ritu.gupta@example.com | Subject: Report Submission - EOD Friday
+[2026-05-07 08:08:41] [INFO] Report saved: /home/claude/Email-Automation-Reminder-System/outputs/email_report.csv
+[2026-05-09 15:53:54] [INFO] ==================================================
+[2026-05-09 15:53:54] [INFO] EMAIL AUTOMATION SYSTEM STARTED
+[2026-05-09 15:53:54] [INFO] Mode: DRY-RUN | Filter: all
+[2026-05-09 15:53:54] [INFO] Loaded 10 contacts from /home/claude/Email-Automation-Reminder-System/data/contacts.csv
+[2026-05-09 15:53:54] [INFO] Loaded 10 reminders from /home/claude/Email-Automation-Reminder-System/data/reminders.csv
+[2026-05-09 15:53:54] [INFO] Merged dataset: 10 rows
+[2026-05-09 15:53:54] [INFO] All pending reminders: 10
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Arjun Sharma
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: arjun.sharma@example.com | Subject: Team Sync Meeting Tomorrow
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: interview_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Priya Nair
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: priya.nair@example.com | Subject: Interview Reminder - Tomorrow 11AM
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Rahul Verma
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: rahul.verma@example.com | Subject: Invoice #1042 Due in 3 Days
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: webinar_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Sneha Reddy
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: sneha.reddy@example.com | Subject: Live Webinar Registration Reminder
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Vikram Patel
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: vikram.patel@example.com | Subject: Following Up on Proposal Sent
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Meera Joshi
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: meera.joshi@example.com | Subject: Project Submission Deadline Alert
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Kiran Kumar
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: kiran.kumar@example.com | Subject: Sprint Planning - 3PM Today
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Divya Singh
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: divya.singh@example.com | Subject: Monthly Subscription Renewal
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Aakash Menon
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: aakash.menon@example.com | Subject: Product Demo Followup
+[2026-05-09 15:53:54] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-09 15:53:54] [DEBUG] ✉️ Email personalized for Ritu Gupta
+[2026-05-09 15:53:54] [INFO] [DRY-RUN] SIMULATED -> To: ritu.gupta@example.com | Subject: Report Submission - EOD Friday
+[2026-05-09 15:53:54] [INFO] Report saved: /home/claude/Email-Automation-Reminder-System/outputs/email_report.csv
+[2026-05-09 15:53:54] [INFO] EMAIL AUTOMATION SYSTEM COMPLETED
+[2026-05-09 15:53:54] [INFO] ==================================================
+[2026-05-09 22:59:02] [INFO] ==================================================
+[2026-05-09 22:59:02] [INFO] EMAIL AUTOMATION SYSTEM STARTED
+[2026-05-09 22:59:02] [INFO] Mode: DRY-RUN | Filter: all
+[2026-05-09 22:59:02] [INFO] Loaded 10 contacts from D:\Links\Email-Automation-Reminder-System\data\contacts.csv
+[2026-05-09 22:59:02] [INFO] Loaded 10 reminders from D:\Links\Email-Automation-Reminder-System\data\reminders.csv
+[2026-05-09 22:59:02] [INFO] Merged dataset: 10 rows
+[2026-05-09 22:59:02] [INFO] All pending reminders: 10
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Arjun Sharma
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: arjun.sharma@example.com | Subject: Team Sync Meeting Tomorrow
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: interview_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Priya Nair
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: priya.nair@example.com | Subject: Interview Reminder - Tomorrow 11AM
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Rahul Verma
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: rahul.verma@example.com | Subject: Invoice #1042 Due in 3 Days
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: webinar_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Sneha Reddy
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: sneha.reddy@example.com | Subject: Live Webinar Registration Reminder
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Vikram Patel
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: vikram.patel@example.com | Subject: Following Up on Proposal Sent
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Meera Joshi
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: meera.joshi@example.com | Subject: Project Submission Deadline Alert
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: meeting_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Kiran Kumar
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: kiran.kumar@example.com | Subject: Sprint Planning - 3PM Today
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: payment_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Divya Singh
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: divya.singh@example.com | Subject: Monthly Subscription Renewal
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: followup_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Aakash Menon
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: aakash.menon@example.com | Subject: Product Demo Followup
+[2026-05-09 22:59:02] [DEBUG] 📄 Template loaded: deadline_reminder.txt
+[2026-05-09 22:59:02] [DEBUG] ✉️ Email personalized for Ritu Gupta
+[2026-05-09 22:59:02] [INFO] [DRY-RUN] SIMULATED -> To: ritu.gupta@example.com | Subject: Report Submission - EOD Friday
+[2026-05-09 22:59:02] [INFO] Report saved: D:\Links\Email-Automation-Reminder-System\outputs\email_report.csv
+[2026-05-09 22:59:02] [INFO] EMAIL AUTOMATION SYSTEM COMPLETED
+[2026-05-09 22:59:02] [INFO] ==================================================

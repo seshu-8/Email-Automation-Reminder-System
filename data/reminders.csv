@@ -1,0 +1,11 @@
+reminder_id,contact_email,reminder_type,subject,scheduled_date,scheduled_time,priority,status
+REM001,arjun.sharma@example.com,meeting,Team Sync Meeting Tomorrow,2025-05-06,09:00,high,pending
+REM002,priya.nair@example.com,interview,Interview Reminder - Tomorrow 11AM,2025-05-06,08:30,high,pending
+REM003,rahul.verma@example.com,payment,Invoice #1042 Due in 3 Days,2025-05-07,10:00,medium,pending
+REM004,sneha.reddy@example.com,webinar,Live Webinar Registration Reminder,2025-05-06,07:00,low,pending
+REM005,vikram.patel@example.com,followup,Following Up on Proposal Sent,2025-05-06,11:00,medium,pending
+REM006,meera.joshi@example.com,deadline,Project Submission Deadline Alert,2025-05-07,09:00,high,pending
+REM007,kiran.kumar@example.com,meeting,Sprint Planning - 3PM Today,2025-05-05,08:00,high,pending
+REM008,divya.singh@example.com,payment,Monthly Subscription Renewal,2025-05-08,10:00,low,pending
+REM009,aakash.menon@example.com,followup,Product Demo Followup,2025-05-06,14:00,medium,pending
+REM010,ritu.gupta@example.com,deadline,Report Submission - EOD Friday,2025-05-09,09:00,high,pending

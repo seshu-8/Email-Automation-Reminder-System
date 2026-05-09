@@ -1,0 +1,24 @@
+Subject: {subject}
+
+Dear {name},
+
+⚠️ DEADLINE ALERT - Action Required
+
+This is an urgent reminder that your deadline is approaching.
+
+Deadline Details:
+-----------------
+📋 Task     : {subject}
+📅 Due Date : {scheduled_date}
+⏰ Due Time : {scheduled_time}
+👤 Assigned : {name} ({role})
+
+Please ensure all required work is completed and submitted before the deadline.
+
+If you are facing any blockers, please escalate immediately.
+
+Regards,
+Project Management Office
+
+---
+This is an automated deadline alert. Please do not reply to this email.
